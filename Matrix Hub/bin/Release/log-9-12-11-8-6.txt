@@ -1,0 +1,29 @@
+Process has been started.
+General Equation: A-B(W/D)
+
+Given Matrix:
+n = [
+   
+   
+]
+------------------------
+Iteration Count 1: 
+R21-->> R21 - R11(R21/R11) == NaN
+R22-->> R22 - R12(R21/R11) == NaN
+R23-->> R23 - R13(R21/R11) == NaN
+
+Iteration Matrix:
+n = [
+   
+NaN NaN NaN 
+]
+
+Iteration Matrix (Column 1) :
+n = [
+   
+NaN NaN NaN 
+]
+
+X2 = (0)/(0) == NaN
+X1 = (0-(NaN)(NaN))/(0) == NaN
+

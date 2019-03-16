@@ -1,0 +1,9 @@
+Process has been started.
+General Equation: A-B(W/D)
+
+Given Matrix:
+n = [
+97 26 
+]
+X1 = (26)/(97) == 0.2680412
+

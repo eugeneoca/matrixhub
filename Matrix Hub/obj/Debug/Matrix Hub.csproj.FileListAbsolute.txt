@@ -1,0 +1,12 @@
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\bin\Debug\Matrix Hub.exe.config
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\bin\Debug\Matrix Hub.exe
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\bin\Debug\Matrix Hub.pdb
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\bin\Debug\MetroFramework.dll
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix_Hub.Main.resources
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix_Hub.Properties.Resources.resources
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix Hub.csproj.GenerateResource.Cache
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix Hub.exe
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix Hub.pdb
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix_Hub.ctrl_roots.resources
+C:\Users\Alfred\Desktop\SOFTWARE DEVELOPMENT\Matrix Hub\Matrix Hub\Matrix Hub\obj\Debug\Matrix Hub.csprojResolveAssemblyReference.cache

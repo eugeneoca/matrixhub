@@ -1,0 +1,9 @@
+Process has been started.
+General Equation: A-B(W/D)
+
+Given Matrix:
+n = [
+  
+]
+X1 = (0)/(0) == NaN
+

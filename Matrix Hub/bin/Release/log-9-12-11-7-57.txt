@@ -1,0 +1,9 @@
+Process has been started.
+General Equation: A-B(W/D)
+
+Given Matrix:
+n = [
+12 59 
+]
+X1 = (59)/(12) == 4.916667
+
